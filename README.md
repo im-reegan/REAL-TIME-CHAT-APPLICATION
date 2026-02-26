@@ -29,4 +29,7 @@ The Real-Time Chat Application is ideal for demonstrating the ability to integra
 In conclusion, this project reflects the developer’s understanding of modern web development concepts, including real-time communication, state management in React, and responsive design principles. It serves as a practical example of an interactive, client-server web application and demonstrates readiness to work on real-world projects requiring instant data synchronization and dynamic user interfaces. The Real-Time Chat Application not only fulfills the requirements of the internship task but also provides a solid foundation for further learning and enhancement in the field of web development.
 
 # OUTPUT
+
+<img width="990" height="714" alt="Image" src="https://github.com/user-attachments/assets/2e87e061-e01c-4590-b84b-5a6f88136484" />
+
 <img width="1014" height="704" alt="Image" src="https://github.com/user-attachments/assets/0103756e-cc14-4984-84a1-1b2af761b03b" />
